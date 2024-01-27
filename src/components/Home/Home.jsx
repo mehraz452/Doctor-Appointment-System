@@ -20,6 +20,7 @@ const Home = () => {
                 <div style={{ width: "80%", margin: "auto", padding: "60px 0" }}>
                     <h1 style={{ fontWeight: "600" }}>Welcome To Doctor Appointment System</h1>
                     <h2 style={{ fontWeight: "600" }}>Here you book your Appointment</h2>
+                    <h2 style={{ fontWeight: "600" }}>Get The Best Treatment!</h2>
                 </div>
 
                 <div style={{ width: "50%", margin: "20px auto", display: "flex", alignItems: "center", justifyContent: "center" }}>
